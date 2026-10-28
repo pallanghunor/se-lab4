@@ -1,0 +1,4 @@
+# SINGLE: ha utoljára primary tüzelt, és mindkét tároló üres, FAIL
+GT4500,1,0,0,0   # csak a primary tartalmaz 1 torpedót
+TORPEDO,SINGLE   # primary tüzel, kiürül
+TORPEDO,SINGLE   # mindkettő üres -> FAIL

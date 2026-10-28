@@ -1,0 +1,3 @@
+# SINGLE: ha még nem tüzelt senki, és mindkét tároló üres, FAIL
+GT4500,0,0,0,0
+TORPEDO,SINGLE
