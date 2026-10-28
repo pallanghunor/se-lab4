@@ -1,0 +1,3 @@
+# ALL: mindkét tároló hibázik -> FAIL
+GT4500,1,1,1,1
+TORPEDO,ALL

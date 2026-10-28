@@ -1,0 +1,4 @@
+# SINGLE: ha a secondary üres, a primary tüzel újra (utoljára is primary tüzelt)
+GT4500,2,0,0,0   # secondary üres
+TORPEDO,SINGLE   # primary
+TORPEDO,SINGLE   # secondary üres -> primary újra
