@@ -1,0 +1,3 @@
+# SINGLE: ha a primary hibát jelez, nem próbálja a secondaryt
+GT4500,5,1,5,0   # primary mindig hibázik, secondary nem
+TORPEDO,SINGLE   # FAIL, mert a secondaryt nem próbálta meg

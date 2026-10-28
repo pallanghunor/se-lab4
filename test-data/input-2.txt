@@ -1,0 +1,4 @@
+# SINGLE: a tárolók felváltva tüzelnek
+GT4500,5,0,5,1   # primary sosem hibázik, secondary mindig
+TORPEDO,SINGLE   # 1. lövés: primary
+TORPEDO,SINGLE   # 2. lövés: secondary (hibázik)

@@ -1,0 +1,4 @@
+# ALL: mindkét tároló tüzel
+GT4500,1,0,1,0   # mindkét tárolóban 1 torpedó
+TORPEDO,ALL      # mindkettő tüzel
+TORPEDO,ALL      # FAIL, ha mindkét tároló kiürült
